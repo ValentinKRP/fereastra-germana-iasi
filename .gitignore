@@ -1,0 +1,6 @@
+.vercel
+.DS_Store
+Thumbs.db
+assets/images/*.png
+.chrome-*/
+preview-*.png
